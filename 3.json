@@ -1,0 +1,29 @@
+{
+  "_links": {
+    "self": {
+      "href": "https://api.cheaptickets.nl/checkout/l-EN/cid-ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7/summary/da71c356-9990-4db6-a297-f13283befb7f"
+    },
+    "flight:details": {
+      "href": "https://flightapi.travix.com/flight/8b66720e-d386-4207-8593-d60e7d16d063/details?affiliate=CheapticketsNL&language=EN&cid=ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7"
+    },
+    "flight:passengers": {
+      "href": "https://flightapi.travix.com/flight/8b66720e-d386-4207-8593-d60e7d16d063/passengers?affiliate=CheapticketsNL&language=EN&cid=ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7"
+    },
+    "flightbooking:conditions": {
+      "href": "https://flightconditionsapi.travix.com/conditions/flight?id=8b66720e-d386-4207-8593-d60e7d16d063&affiliate=CheapticketsNL&language=EN&cid=ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7"
+    },
+    "checkout:costs": {
+      "href": "https://raw.githubusercontent.com/benjibjmm/cheaptkstesting/refs/heads/main/4.json",
+      "templated": true,
+      "data": [
+        {
+          "name": "exclude",
+          "prompt": "exclude cost item types: reservation (optional)"
+        }
+      ]
+    },
+    "checkout:contact": {
+      "href": "https://api.cheaptickets.nl/checkout/l-EN/cid-ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7/contact/da71c356-9990-4db6-a297-f13283befb7f"
+    }
+  }
+}
