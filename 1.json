@@ -22,7 +22,7 @@
       "href": "https://flightconditionsapi.travix.com/conditions/flight?id=8b66720e-d386-4207-8593-d60e7d16d063&Language=en&Cid=ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7&Affiliate=CheapticketsNL"
     },
     "contact-pay-book": {
-      "href": "https://raw.githubusercontent.com/benjibjmm/cheaptkstesting/refs/heads/main/2.json"
+      "href": "https://www.jsonkeeper.com/b/H6ZV"
     },
     "seat-map": {
       "href": "https://seatmapapi.travix.com/seatmap/8b66720e-d386-4207-8593-d60e7d16d063?Language=en&Cid=ec6e6753-f7b5-41d2-a1ad-a7f374fc38c7&Affiliate=CheapticketsNL"
